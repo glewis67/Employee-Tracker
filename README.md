@@ -49,7 +49,7 @@ To install no necessery dependencies just follow the url link.
 
 
 
-## Questionshem
+## Questions
 
 For any questions regarding this application please reach out to: denen2@yahoo.com
 
