@@ -37,8 +37,8 @@ https://glewis67.github.io/passwordGenerator
 The languages and libaries used in the application:
 
 - JavaScript
-- CSS3
-- HTML
+- Node.js
+- Mysql
 
 
 ## Installation
@@ -47,7 +47,7 @@ To install no necessery dependencies just follow the url link.
 
 ## Usage
 
-* 
+
 
 ## Questionshem
 
