@@ -16,7 +16,7 @@ https://youtu.be/gE4b62NSG2E
 
 ## Deployed Link
 
-https://glewis67.github.io/passwordGenerator
+https://glewis67.github.io/Employee-Tracker
 
 ## Table of Contents
 
