@@ -4,15 +4,12 @@
 
 ## Description
 
-* Employee-Trackerr is an application.
+* Employee-Tracker is an application that track employees by job title or manager.
 
 ## Desktop
 
 https://youtu.be/gE4b62NSG2E
 
-## Desktop
-
-![Alt test](/images/pw.png)
 
 ## Deployed Link
 
@@ -43,10 +40,13 @@ The languages and libaries used in the application:
 
 ## Installation
 
-To install no necessery dependencies just follow the url link.
+To install necessery dependencies, follow the instruction below:
+
+ Run this command:```Node index.js```
+
 
 ## Usage
-
+Allow user to tracked employees location in a company.
 
 
 ## Questions
